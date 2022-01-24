@@ -12,6 +12,27 @@ body
      text-decoration: none;
      color:white;
  }
+  
+ .explore-album
+ {
+    text-decoration: none;
+    color:white;
+    font-size: 15px;
+     font-weight: bold;
+     background-color: #ffc107;
+     border-radius: 40px;
+     padding:10px 60px;
+ }
+ .drem-wedding-site
+ {
+    text-decoration: none;
+    color:white;
+    font-size: 15px;
+     font-weight: bold;
+     border-radius: 40px;
+     padding:10px 60px;
+ }
+
   .check-sign-color
   {
       color: #5243C2;
@@ -97,4 +118,6 @@ body
     .bankers-card
     {
         border-radius:20px;
+    }
+    
     }
