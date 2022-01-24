@@ -67,3 +67,30 @@ body
         background-color:rgba(82, 67, 194, 0.103693);
         border-radius: 50%;
     }
+    .background-footer
+    {
+        background-color: #0B0D17;
+        color: white;
+    }
+    .app-store
+    {
+      
+    }
+    .apple-apps
+    {
+        text-decoration: none;
+       
+       
+        color: white;
+        padding:10px;
+     
+    }
+    .google-apss
+    {
+        text-decoration: none;
+       
+       
+        color: white;
+        padding:10px;
+     
+    }
