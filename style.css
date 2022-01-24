@@ -1,18 +1,26 @@
-/* Google-font */
+/****************Google-font**********************/
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Questrial&display=swap');
 
-/* common-style */
+
+/*********************common-style******************/
+
 body
 {
     font-family: 'Poppins', sans-serif;
     font-family: 'Questrial', sans-serif;
 }
+
+/*****************carousel-section-style-start*********/
+
  .prebook-link
  {
      text-decoration: none;
      color:white;
  }
-  
+   
+/***********precious-section-style-start********************/
+
  .explore-album
  {
     text-decoration: none;
@@ -20,9 +28,12 @@ body
     font-size: 15px;
      font-weight: bold;
      background-color: #ffc107;
-     border-radius: 40px;
-     padding:10px 60px;
+     border-radius:40px;
+     padding:10px 40px;
  }
+
+/*****************bonus-section-style-start*******************/
+
  .drem-wedding-site
  {
     text-decoration: none;
@@ -30,10 +41,13 @@ body
     font-size: 15px;
      font-weight: bold;
      border-radius: 40px;
-     padding:10px 60px;
+     padding:10px 40px;
  }
 
-  .check-sign-color
+
+
+ /*****************Our-package-section-style-start*******************/
+.check-sign-color
   {
       color: #5243C2;
       background-color:rgba(82, 67, 194, 0.103693);
@@ -42,14 +56,13 @@ body
   .choose-plan
   {
     text-decoration: none;
-    color: #3F87F5;
+    color:white;
     font-size: 15px;
      font-weight: bold;
-     background-color:#F496D1;;
+     background-color:#0dcaf0;
      border-radius: 40px;
-     padding:10px 70px;
-     mix-blend-mode: normal;
-    opacity: 0.5;
+     padding:10px 40px;
+    
   }
   .choose-plan-third
   {
@@ -59,7 +72,7 @@ body
      font-weight: bold;
      background-color:white;
      border-radius: 40px;
-     padding:10px 70px;
+     padding:10px 40px;
      
   }
   .package-third-card
@@ -68,6 +81,12 @@ body
       border-radius: 26px;
       color: white;
       position: relative;
+    }
+    .check-sign-third-card
+    {
+        color: white;
+        background-color:rgba(82, 67, 194, 0.103693);
+        border-radius: 50%;
     }
     .excited-option
     {
@@ -82,26 +101,27 @@ body
         top:-10px;
         right:20px;
     }
-    .check-sign-third-card
+/*****************Our-package-section-style-end*******************/
+
+
+
+/************happy-client-says-section-style**************/
+.bankers-card
     {
-        color: white;
-        background-color:rgba(82, 67, 194, 0.103693);
-        border-radius: 50%;
+        border-radius:20px;
     }
+    
+
+/**********************Footer-style-start********************/
     .background-footer
     {
         background-color: #0B0D17;
         color: white;
     }
-    .app-store
-    {
-      
-    }
+     
     .apple-apps
     {
         text-decoration: none;
-       
-       
         color: white;
         padding:10px;
      
@@ -109,15 +129,8 @@ body
     .google-apss
     {
         text-decoration: none;
-       
-       
         color: white;
         padding:10px;
-     
     }
-    .bankers-card
-    {
-        border-radius:20px;
-    }
+    /**********************Footer-style-end********************/
     
-    }
